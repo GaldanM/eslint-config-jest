@@ -1,0 +1,9 @@
+.idea/
+.github/
+node_modules/
+.editorconfig
+.eslintrc
+.prettierrc
+.npmignore
+README.md
+yarn.lock

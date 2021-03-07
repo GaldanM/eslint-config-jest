@@ -1,0 +1,26 @@
+{
+	"name": "@galdanm/eslint-config-jest",
+	"version": "1.0.0",
+	"description": "My ESLint config for a project using jest",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/galdanm/eslint-config-jest"
+	},
+	"author": "Galdan MOULINNEUF",
+	"license": "MIT",
+	"private": false,
+	"peerDependencies": {
+		"eslint": ">=7",
+		"jest": ">=26",
+		"prettier": ">=2"
+	},
+	"dependencies": {
+		"@galdanm/eslint-config-base": "1.0.1",
+		"eslint-plugin-jest": "^24.1.7"
+	},
+	"devDependencies": {
+		"eslint": "^7.21.0",
+		"jest": "^26.6.3",
+		"prettier": "^2.2.1"
+	}
+}
